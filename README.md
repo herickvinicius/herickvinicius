@@ -1,12 +1,14 @@
 # Herick Vinicius 
 
-Infrastructure Analyst @BeforeTI and President @MegaJr. 
+Hello!
+
+I'm the back-end software developer that you are looking for.
+Here's some links for you to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@herickgustavo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/herickgustavo)](https://twitter.com/herickgustavo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Herick%20Vinicius-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/herickvinicius/)](https://www.linkedin.com/in/herickvinicius/) 
 [![Gmail Badge](https://img.shields.io/badge/-herick.gustavo@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herick.gustavo@gmail.com)](mailto:herick.gustavo@gmail.com)
-
-Back-end development enthusiast and a passionate learner.
+[![Gmail Badge](https://img.shields.io/badge/-herick@organa.dev.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:herick@organa.dev.br)](mailto:herick@organa.dev.br)
 
 :)
 
