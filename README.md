@@ -2,7 +2,7 @@
 
 Hello!
 
-I'm the back-end software developer that you are looking for.
+I'm the back-end/devops guy you're looking for.
 Here's some links for you to reach me:
 
 [![Twitter Badge](https://img.shields.io/badge/-@herickgustavo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/herickgustavo)](https://twitter.com/herickgustavo) 
